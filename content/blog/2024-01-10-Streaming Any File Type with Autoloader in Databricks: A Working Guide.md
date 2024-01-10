@@ -1,7 +1,7 @@
 ---
-title: "[Title](<2024-01-03-Spark Stream Aggregation: A Beginner’s Journey with Practical Code Example.md>)"
+title: "Spark Stream Aggregation: A Beginner’s Journey with Practical Code Example"
 description: ""
-date: 2024-01-10T17:29:06.599Z
+date: 2024-01-10T00:29:06.599Z
 preview: ""
 draft: false
 tags: ["spark","spark streaming", "autoloader","binary"]
